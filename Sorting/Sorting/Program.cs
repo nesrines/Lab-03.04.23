@@ -1,4 +1,4 @@
-﻿Console.WriteLine("How many numbers do you want to add?");
+Console.WriteLine("How many numbers do you want to add?");
 int n = Convert.ToInt32(Console.ReadLine());
 
 if (n < 5)
@@ -16,13 +16,13 @@ else
 
     for (int i = 0; i < Numbers.Length; i++)
     {
-        for (int j = 0; j < Numbers.Length; j++)
+        for (int j = i + 1; j < Numbers.Length; j++)
         {
-            if (i != j && Numbers[j] > Numbers[i])
+            if (Numbers[i] > Numbers[j])
             {
-                int r = Numbers[j];
-                Numbers[j] = Numbers[i];
-                Numbers[i] = r;
+                int r = Numbers[i];
+                Numbers[i] = Numbers[j];
+                Numbers[j] = r;
             }
         }
     }
