@@ -1,0 +1,15 @@
+C:\Users\nasrinfa\source\repos\Max-min\Max-min\bin\Debug\net6.0\Max-min.exe
+C:\Users\nasrinfa\source\repos\Max-min\Max-min\bin\Debug\net6.0\Max-min.deps.json
+C:\Users\nasrinfa\source\repos\Max-min\Max-min\bin\Debug\net6.0\Max-min.runtimeconfig.json
+C:\Users\nasrinfa\source\repos\Max-min\Max-min\bin\Debug\net6.0\Max-min.dll
+C:\Users\nasrinfa\source\repos\Max-min\Max-min\bin\Debug\net6.0\Max-min.pdb
+C:\Users\nasrinfa\source\repos\Max-min\Max-min\obj\Debug\net6.0\Max-min.csproj.AssemblyReference.cache
+C:\Users\nasrinfa\source\repos\Max-min\Max-min\obj\Debug\net6.0\Max-min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasrinfa\source\repos\Max-min\Max-min\obj\Debug\net6.0\Max-min.AssemblyInfoInputs.cache
+C:\Users\nasrinfa\source\repos\Max-min\Max-min\obj\Debug\net6.0\Max-min.AssemblyInfo.cs
+C:\Users\nasrinfa\source\repos\Max-min\Max-min\obj\Debug\net6.0\Max-min.csproj.CoreCompileInputs.cache
+C:\Users\nasrinfa\source\repos\Max-min\Max-min\obj\Debug\net6.0\Max-min.dll
+C:\Users\nasrinfa\source\repos\Max-min\Max-min\obj\Debug\net6.0\refint\Max-min.dll
+C:\Users\nasrinfa\source\repos\Max-min\Max-min\obj\Debug\net6.0\Max-min.pdb
+C:\Users\nasrinfa\source\repos\Max-min\Max-min\obj\Debug\net6.0\Max-min.genruntimeconfig.cache
+C:\Users\nasrinfa\source\repos\Max-min\Max-min\obj\Debug\net6.0\ref\Max-min.dll
