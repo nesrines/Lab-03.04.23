@@ -1,0 +1,15 @@
+C:\Users\nasrinfa\source\repos\123456\123456\bin\Debug\net6.0\123456.exe
+C:\Users\nasrinfa\source\repos\123456\123456\bin\Debug\net6.0\123456.deps.json
+C:\Users\nasrinfa\source\repos\123456\123456\bin\Debug\net6.0\123456.runtimeconfig.json
+C:\Users\nasrinfa\source\repos\123456\123456\bin\Debug\net6.0\123456.dll
+C:\Users\nasrinfa\source\repos\123456\123456\bin\Debug\net6.0\123456.pdb
+C:\Users\nasrinfa\source\repos\123456\123456\obj\Debug\net6.0\123456.csproj.AssemblyReference.cache
+C:\Users\nasrinfa\source\repos\123456\123456\obj\Debug\net6.0\123456.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasrinfa\source\repos\123456\123456\obj\Debug\net6.0\123456.AssemblyInfoInputs.cache
+C:\Users\nasrinfa\source\repos\123456\123456\obj\Debug\net6.0\123456.AssemblyInfo.cs
+C:\Users\nasrinfa\source\repos\123456\123456\obj\Debug\net6.0\123456.csproj.CoreCompileInputs.cache
+C:\Users\nasrinfa\source\repos\123456\123456\obj\Debug\net6.0\123456.dll
+C:\Users\nasrinfa\source\repos\123456\123456\obj\Debug\net6.0\refint\123456.dll
+C:\Users\nasrinfa\source\repos\123456\123456\obj\Debug\net6.0\123456.pdb
+C:\Users\nasrinfa\source\repos\123456\123456\obj\Debug\net6.0\123456.genruntimeconfig.cache
+C:\Users\nasrinfa\source\repos\123456\123456\obj\Debug\net6.0\ref\123456.dll
